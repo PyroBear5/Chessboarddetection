@@ -1,0 +1,14 @@
+train: C:/Users/Moritz/OneDrive/Dokumente/KI/Chessboarddetection/dataset/train/images
+val: C:/Users/Moritz/OneDrive/Dokumente/KI/Chessboarddetection/dataset/valid/images
+test: C:/Users/Moritz/OneDrive/Dokumente/KI/Chessboarddetection/dataset/test/images
+
+
+nc: 12
+names: ['black-bishop', 'black-king', 'black-knight', 'black-pawn', 'black-queen', 'black-rook', 'white-bishop', 'white-king', 'white-knight', 'white-pawn', 'white-queen', 'white-rook']
+
+roboflow:
+  workspace: chduck
+  project: merge_chess
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/chduck/merge_chess/dataset/1
