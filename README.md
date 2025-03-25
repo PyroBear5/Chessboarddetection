@@ -1,5 +1,5 @@
 
-**YOLOv5:
+**YOLOv5**:
 
 YOLOv5 ist ein schnelles und präzises KI-Modell zur Objekterkennung. Es kann verwendet werden, um Schachbretter auf Bildern zu erkennen.
 
